@@ -44,15 +44,13 @@ export default function ContactPage() {
           </h2>
           <hr />
           <p className="mb-1 text-lg font-semibold">Melbourne, Australia</p>
-          <p className="mb-4">
-            21 Cuttlefish Circuit, Tarneit, VIC, 3029, Australia
-          </p>
+          <p className="mb-4">Tarneit, VIC, 3029, Australia</p>
           <h2 className="text-xl md:text-2xl mb-2 font-bold text-[var(--title)] font-amatic border-l-4 border-[var(--title)] pl-3 mt-6">
             Branch Office
           </h2>
           <hr />
           <p className="mb-1 text-lg font-semibold">Delhi, India</p>
-          <p className="mb-4">A1/97, Sector 8, Rohini, Delhi 110085</p>
+          <p className="mb-4"> Sector 8, Rohini, Delhi 110085</p>
           {/* <p className="text-gray-400 mt-8">
             Our business operating hours are as follows:
           </p>
@@ -124,7 +122,7 @@ export default function ContactPage() {
         <div className="flex flex-col md:flex-row justify-center items-start py-8 gap-10 mb-7">
           <div className="w-full h-[450px] rounded-lg overflow-hidden shadow-lg border border-[var(--primary-color)]">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.6493501821093!2d144.6719204!3d-37.8392873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66a2f8c7fd3b3%3A0x43f41c0cf99f1e55!2s21%20Cuttlefish%20Circuit%2C%20Tarneit%20VIC%203029%2C%20Australia!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50416.39018576422!2d144.66432415!3d-37.836314949999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad6f5322aa603c3%3A0x5045675218cd870!2sTarneit%20VIC%203029%2C%20Australia!5e0!3m2!1sen!2sin!4v1780575549748!5m2!1sen!2sin"
               width="100%"
               height="100%"
               allowFullScreen

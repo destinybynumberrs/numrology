@@ -56,7 +56,7 @@ const Footer = () => {
           </p>
           <p className="text-[var(--primary-color)] mb-2">
             Melbourne, Australia <br />
-            21 Cuttlefish Circuit, Tarneit, VIC, 3029, Australia
+            Tarneit, VIC, 3029, Australia
           </p>
           <p className="text-[var(--primary-color)] mb-1">
             <span className="font-semibold">Phone:</span> +61 491 153 284
